@@ -9,5 +9,3 @@ int main(void){
     else
         printf("Sign bits are shifted in.\n");
 }
-
-
